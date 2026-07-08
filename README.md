@@ -22,5 +22,3 @@ A baseline end-to-end ML pipeline predicting passenger survival on the Titanic d
 - Try `RandomForestClassifier` / `HistGradientBoostingClassifier`
 - Cross-validation instead of single train/val split
 
-## File
-- `titanic_pipeline.ipynb` — full notebook, split → clean → pipeline → train → predict → submit
